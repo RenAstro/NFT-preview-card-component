@@ -136,5 +136,5 @@ p + p{
 .page-author a{
     color: rgb(38, 121, 112);
     padding-left: 5px;
-
+    text-decoration: none;
 }
